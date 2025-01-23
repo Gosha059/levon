@@ -1,5 +1,4 @@
-import Image from "next/image"
-import Link from "next/link";
+
 import { FaPhoneSquareAlt } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";
 
